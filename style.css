@@ -1,0 +1,59 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#a
+{
+    border-radius: 10px;
+}
+
+#b
+{
+    border-radius: 10px;
+}
+
+#c
+{
+    border-radius: 10px;
+}
+
+#d
+{
+    border-radius: 10px;
+}
+
+#e
+{
+    border-radius: 10px;
+}
+
+#name
+{
+    background-color: aliceblue;
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32px;
+}
+
+h1
+{
+position: center;
+font-size: 35px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
